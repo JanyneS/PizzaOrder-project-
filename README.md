@@ -3,6 +3,11 @@
 Web-based pizza ordering system developed with PHP and MySQL. _This is my first project in PHP._
 The project simulates a pizza restaurant workflow, allowing order customization and admin management, with a strong focus on CRUD operations, SQL, and database modeling.
 
+## 📸 Screenshots
+
+![dashboard](images/dashboard.png)
+![homepage](images/homepage.png)
+
 ---
 
 ## 🔮 About the Project
