@@ -1,7 +1,7 @@
 # 🍕 PizzaOrder — Web-Based Pizza Ordering System
 
-_Web-based pizza_ ordering system developed with PHP and MySQL.
-Simulates a pizza restaurant workflow, allowing order customization and admin management, with a focus on CRUD operations, SQL, and database modeling.
+Web-based pizza ordering system developed with PHP and MySQL. _This is my first project in PHP._
+The project simulates a pizza restaurant workflow, allowing order customization and admin management, with a strong focus on CRUD operations, SQL, and database modeling.
 
 ---
 
